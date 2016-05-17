@@ -1,0 +1,6 @@
+framework module MaxIMUI {
+  umbrella header "MaxIMUI.h"
+
+  export *
+  module * { export * }
+}
