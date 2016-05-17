@@ -1,7 +1,27 @@
 # Module-MaxIM-iOS
 
 ##使用说明：
-###ViewController介绍
+###一、设置appid和clientkey
+1、在maxleap.cn中创建app，记录appid和clientkey。
+
+2、更换AppDelegate.m中的宏定义为1中的appid和clientkey：
+
+    #define MAXLEAP_APPID           @"your_app_id"
+    #define MAXLEAP_CLIENTKEY       @"your_client_key"
+
+3、如果要使用微博、QQ和微信第三方登录，需要先在相应的开发者后台注册app，输入正确的app信息。
+
+4、更换AppDelegate.m中的以下宏定义：
+
+    #define WECHAT_APPID            @"your_wechat_appid"
+    #define WECHAT_SECRET           @"your_wechat_secret"
+    #define WEIBO_APPKEY            @"your_weibo_appkey"
+    #define WEIBO_REDIRECTURL       @"your_weibo_redirect_url"
+    #define QQ_APPID                @"your_qq_appid"
+
+5、更新Info.plist文件中URL Types中以上第三方登陆需要的设置。
+
+###二、ViewController介绍
 1、MCPersonalViewController： 在未登录情况下显示登录和注册按钮，登录后显示和更新个人信息。
 
 2、MCContactsViewController：显示IM联系人和群组列表，点击进入聊天。
@@ -10,7 +30,7 @@
 
 4、MCMessagesViewController：联系人或者群组聊天界面，
 
-### Modal介绍
+###三、Modal介绍
 1、MaxChatIMClient：负责创建MLIMClient，创建聊天窗口，接收消息并发送到聊天窗口。
 
 

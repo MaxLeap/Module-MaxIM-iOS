@@ -226,7 +226,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vngI1GY+8WYaIkAgxKCPQm5qdaM=
+		FltF4lS8eRTD9CNLHk8197kWtYk=
 		</data>
 		<key>JSQMessagesAssets.bundle/Base.lproj/JSQMessages.strings</key>
 		<dict>
@@ -574,35 +574,35 @@
 		</dict>
 		<key>JSQMessagesCollectionViewCellIncoming.nib</key>
 		<data>
-		bOGJ++uxt2pCvbzUPGDeXb+0uig=
+		dMAyp311VV2ClRxQlziDltk5sfU=
 		</data>
 		<key>JSQMessagesCollectionViewCellOutgoing.nib</key>
 		<data>
-		J9PZUrUu/V50pEkUI9INDZcj92E=
+		6w+fowqEOZfANaJldTEiCu/XOT8=
 		</data>
 		<key>JSQMessagesLoadEarlierHeaderView.nib</key>
 		<data>
-		DVvtULqCrzKOwBfjPfX3rtEdw6Y=
+		jFP6yw1Fls3Clf2BiM/fHAHZa7o=
 		</data>
 		<key>JSQMessagesToolbarContentView.nib</key>
 		<data>
-		qHB94yHoDXBmGxTUYvYgu199xy4=
+		uGsUi4whWHZVtaUWxQXeui9JO1s=
 		</data>
 		<key>JSQMessagesTypingIndicatorFooterView.nib</key>
 		<data>
-		jc7HK/8uu+XvqH5K0oBQP4o6VK0=
+		DFC3TqygjSzu5Rr+ANr367Ymfbo=
 		</data>
 		<key>JSQMessagesViewController.nib</key>
 		<data>
-		MSVpwBFrpo0JU+ChH43TDbJgKrI=
+		0ybEU4Fnv8MG6mRb01lkTnX/k08=
 		</data>
 		<key>MCContactsViewController.nib</key>
 		<data>
-		/ClE2Zg68fiP05u71Qky2v1F4e0=
+		tV+4GsRQycTNzKcWC4VxzYwrWa0=
 		</data>
 		<key>MCRecentChatsViewController.nib</key>
 		<data>
-		dNOX5vLsbuVhrwCG4Q9XB2xx3og=
+		0/nMZWgO9mnHCmXcjP2ybcQDub8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1888,88 +1888,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bOGJ++uxt2pCvbzUPGDeXb+0uig=
+			dMAyp311VV2ClRxQlziDltk5sfU=
 			</data>
 			<key>hash2</key>
 			<data>
-			DURnkxcWmXvgAut5RYrsJB57+V0B0Q+1svU7o6c0iAo=
+			rvwvqqOsyD/vBwjRXf+qS5RzXdP4EGRsdDIPEeoz3L8=
 			</data>
 		</dict>
 		<key>JSQMessagesCollectionViewCellOutgoing.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J9PZUrUu/V50pEkUI9INDZcj92E=
+			6w+fowqEOZfANaJldTEiCu/XOT8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Iqd2xe1rLZv5THrjxx8eiULLCta8JRGs5OdfEflUlH8=
+			JJZrhVpi7CU0KI/kWHwOZNCdBiAb6SUyFqG29fcREEE=
 			</data>
 		</dict>
 		<key>JSQMessagesLoadEarlierHeaderView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DVvtULqCrzKOwBfjPfX3rtEdw6Y=
+			jFP6yw1Fls3Clf2BiM/fHAHZa7o=
 			</data>
 			<key>hash2</key>
 			<data>
-			GXMcXBJxd/B20gdJZn2S11rO6pmaP/MOsB++QdILQbs=
+			7x6EhFinRqeJmg6un2b7XSSuoQuCzLVwFv4hs/bkbAc=
 			</data>
 		</dict>
 		<key>JSQMessagesToolbarContentView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qHB94yHoDXBmGxTUYvYgu199xy4=
+			uGsUi4whWHZVtaUWxQXeui9JO1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			hi8i3KhjNfZ37mCwwhBgGtERvP0ohz8D0M+wBL4+PHc=
+			Ft/jjgXHizwQh38BW2fp4K58/6YdDvdG4+VRhhRKF+U=
 			</data>
 		</dict>
 		<key>JSQMessagesTypingIndicatorFooterView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jc7HK/8uu+XvqH5K0oBQP4o6VK0=
+			DFC3TqygjSzu5Rr+ANr367Ymfbo=
 			</data>
 			<key>hash2</key>
 			<data>
-			PUz2IpUT0xS7xrtbxvYKP6yTI2pyMsN1RKtyQSFGQ4I=
+			V89edGxLWhdy7yxSNIeKyfY3tLyW8G0+cdy2ar1PmP0=
 			</data>
 		</dict>
 		<key>JSQMessagesViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MSVpwBFrpo0JU+ChH43TDbJgKrI=
+			0ybEU4Fnv8MG6mRb01lkTnX/k08=
 			</data>
 			<key>hash2</key>
 			<data>
-			PNLZkI+6IWWYP8B+nwJiUtE9zMRj0iryNBlf4BI3uio=
+			HjMfyf6/QpSk0JToqJUJfHLNGXa8usdGNH7pBmQoR6c=
 			</data>
 		</dict>
 		<key>MCContactsViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/ClE2Zg68fiP05u71Qky2v1F4e0=
+			tV+4GsRQycTNzKcWC4VxzYwrWa0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QkWYa+xQBa0ouxTyTqFTxX6wFos5dqgGq6mVPK3yhVs=
+			8lbE3dSp8MB4vmHCWykzBcZ0HKp+8Mn+xUQA3VvAvMo=
 			</data>
 		</dict>
 		<key>MCRecentChatsViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dNOX5vLsbuVhrwCG4Q9XB2xx3og=
+			0/nMZWgO9mnHCmXcjP2ybcQDub8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1/5G9WjlFCicXbgYQPZttTiF+158xOAIk5poYLybSrQ=
+			pBqRcX5n83Ih9XZRLNiqy46zUdDQtKMQaJlb7dfv4IA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

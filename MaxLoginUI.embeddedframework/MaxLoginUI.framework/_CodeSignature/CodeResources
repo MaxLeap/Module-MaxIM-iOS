@@ -50,19 +50,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Vrzo9P51P74fHzYsvMQvP23xzxw=
+		R9qSuaLabdYgGoQjVP5x5HI8wQc=
 		</data>
 		<key>MCLoginViewController.nib</key>
 		<data>
-		kUP2d5rDkh0iyNXv9uE7c4qoHdU=
+		Xv/DvW/ziKQLAeKmSNyJTtFHNu0=
 		</data>
 		<key>MCPersonalViewController.nib</key>
 		<data>
-		1advDwDBxXRHQ69Gof4P+UsiZhQ=
+		e2tcVUCpESdglZW9GzWhPiPlOBw=
 		</data>
 		<key>MCSignViewController.nib</key>
 		<data>
-		r+3L1wwrGpH2Cgtxgl3pBC0APF4=
+		SeLQ9yCYxaaVhiW8rvhWts7RSRM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -220,33 +220,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kUP2d5rDkh0iyNXv9uE7c4qoHdU=
+			Xv/DvW/ziKQLAeKmSNyJTtFHNu0=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Ea0euWWEEewKnUZBtUDRvwGu2Zjnv5TOAUUYb6OXiw=
+			hF4YZr2V+pPXMyn//w66x0/UpqB9A6zrwHH1yvL33g0=
 			</data>
 		</dict>
 		<key>MCPersonalViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1advDwDBxXRHQ69Gof4P+UsiZhQ=
+			e2tcVUCpESdglZW9GzWhPiPlOBw=
 			</data>
 			<key>hash2</key>
 			<data>
-			aQRZCV7WmBRw17YWbVE/GrDC+ofJMsI29oCQPMlLI6k=
+			bJH5mQOfco7U9d95eXEFfdVY3ncc3DDLO+BZtYUzrug=
 			</data>
 		</dict>
 		<key>MCSignViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r+3L1wwrGpH2Cgtxgl3pBC0APF4=
+			SeLQ9yCYxaaVhiW8rvhWts7RSRM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xGM/67iM8DAvDjbxF5bK6cvRr/9QNtVs/Dyn1cwEjPc=
+			cLU7aWh71xioEtVi/yEALJ2941a859bwykXrHVI+1WI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

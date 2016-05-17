@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B2786ADD1CEAF37400AE26C1 /* MaxIMLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B29A88961CEAC1470048CDEB /* MaxIMLib.framework */; };
 		B29A88251CEABF680048CDEB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B29A88241CEABF680048CDEB /* main.m */; };
 		B29A88281CEABF680048CDEB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B29A88271CEABF680048CDEB /* AppDelegate.m */; };
 		B29A88301CEABF680048CDEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B29A882F1CEABF680048CDEB /* Assets.xcassets */; };
@@ -32,8 +33,6 @@
 		B29A88B01CEAC2620048CDEB /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B29A88AF1CEAC2620048CDEB /* SystemConfiguration.framework */; };
 		B29A88B21CEAC2660048CDEB /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B29A88B11CEAC2660048CDEB /* MobileCoreServices.framework */; };
 		B29A88B41CEAC26F0048CDEB /* libstdc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B29A88B31CEAC26F0048CDEB /* libstdc++.tbd */; };
-		B29A895E1CEAC7920048CDEB /* MaxIMLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B29A88961CEAC1470048CDEB /* MaxIMLib.framework */; };
-		B29A895F1CEAC7920048CDEB /* MaxIMLib.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B29A88961CEAC1470048CDEB /* MaxIMLib.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B29A89601CEAC7920048CDEB /* SocketIOClientSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B29A88941CEAC1410048CDEB /* SocketIOClientSwift.framework */; };
 		B29A89611CEAC7920048CDEB /* SocketIOClientSwift.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B29A88941CEAC1410048CDEB /* SocketIOClientSwift.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B29A8A091CEACF800048CDEB /* MaxIMUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B29A89FC1CEACF800048CDEB /* MaxIMUI.framework */; };
@@ -67,7 +66,6 @@
 			dstSubfolderSpec = 10;
 			files = (
 				B29A89611CEAC7920048CDEB /* SocketIOClientSwift.framework in Embed Frameworks */,
-				B29A895F1CEAC7920048CDEB /* MaxIMLib.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -119,7 +117,6 @@
 		B29A88B11CEAC2660048CDEB /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 		B29A88B31CEAC26F0048CDEB /* libstdc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.tbd"; path = "usr/lib/libstdc++.tbd"; sourceTree = SDKROOT; };
 		B29A89FC1CEACF800048CDEB /* MaxIMUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MaxIMUI.framework; path = "/Users/zhouhesheng/web/Module-MaxIM-iOS/MaxIMUI.embeddedframework/MaxIMUI.framework"; sourceTree = "<absolute>"; };
-		B29A8A5D1CEAD0EC0048CDEB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B29A8AF21CEAD20B0048CDEB /* MaxLoginUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MaxLoginUI.framework; sourceTree = "<group>"; };
 		B29A8AF41CEAD20B0048CDEB /* ic_qq@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_qq@2x.png"; sourceTree = "<group>"; };
 		B29A8AF51CEAD20B0048CDEB /* ic_qq@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_qq@3x.png"; sourceTree = "<group>"; };
@@ -162,10 +159,10 @@
 				B29A88661CEAC0960048CDEB /* MJRefresh.framework in Frameworks */,
 				B29A886B1CEAC0960048CDEB /* MLQQUtils.framework in Frameworks */,
 				B29A88651CEAC0960048CDEB /* MaxLeap.framework in Frameworks */,
-				B29A895E1CEAC7920048CDEB /* MaxIMLib.framework in Frameworks */,
 				B29A88721CEAC0960048CDEB /* SVProgressHUD.framework in Frameworks */,
 				B29A886C1CEAC0960048CDEB /* MLWeChatUtils.framework in Frameworks */,
 				B29A8B081CEAD20B0048CDEB /* MaxLoginUI.framework in Frameworks */,
+				B2786ADD1CEAF37400AE26C1 /* MaxIMLib.framework in Frameworks */,
 				B29A88731CEAC0960048CDEB /* TencentOpenAPI.framework in Frameworks */,
 				B29A88701CEAC0960048CDEB /* SDWebImage.framework in Frameworks */,
 				B29A886D1CEAC0960048CDEB /* MLWeiboUtils.framework in Frameworks */,
@@ -289,7 +286,6 @@
 			isa = PBXGroup;
 			children = (
 				B29A88221CEABF680048CDEB /* MaxIMDemo */,
-				B29A8A5D1CEAD0EC0048CDEB /* README.md */,
 			);
 			name = "Module-MaxIM-iOS";
 			path = ..;
@@ -564,7 +560,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/MaxIMDemo/Frameworks/**",
@@ -590,7 +585,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/MaxIMDemo/Frameworks/**",
