@@ -26,7 +26,3 @@ FOUNDATION_EXPORT const unsigned char MaxIMUIVersionString[];
 #import "MCRecentChatsViewController.h"
 
 #import "JSQMessage.h"
-#import "NSDate+Extension.h"
-#import "UIView+AutoLayout.h"
-#import "UIView+Borders.h"
-

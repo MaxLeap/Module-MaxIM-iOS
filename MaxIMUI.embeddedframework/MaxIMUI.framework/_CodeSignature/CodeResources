@@ -202,15 +202,11 @@
 		</data>
 		<key>Headers/MaxIMUI.h</key>
 		<data>
-		ekSOFzRTxu/iU9zb92/v7mgXeto=
+		J6OWDc14o0430Hd5U0TC29S50EM=
 		</data>
 		<key>Headers/NSBundle+JSQMessages.h</key>
 		<data>
 		VxG8DAriaqtr61UBJDZ3e9olKrk=
-		</data>
-		<key>Headers/NSDate+Extension.h</key>
-		<data>
-		oAUtUCdpQZbBAq6ivwRNUMka4yQ=
 		</data>
 		<key>Headers/NSString+JSQMessages.h</key>
 		<data>
@@ -223,14 +219,6 @@
 		<key>Headers/UIImage+JSQMessages.h</key>
 		<data>
 		nqqzsqcsV9XIiwBSWTF9wjkbdjI=
-		</data>
-		<key>Headers/UIView+AutoLayout.h</key>
-		<data>
-		uw0c+T9Lmtz+PGIsv3L1MdTSBdI=
-		</data>
-		<key>Headers/UIView+Borders.h</key>
-		<data>
-		5pobEhVOt8mPK+wriWSMZgyv8eA=
 		</data>
 		<key>Headers/UIView+JSQMessages.h</key>
 		<data>
@@ -586,346 +574,40 @@
 		</dict>
 		<key>JSQMessagesCollectionViewCellIncoming.nib</key>
 		<data>
-		nAMdh2c3VewJXTLPAvyMgKIcxCs=
+		bOGJ++uxt2pCvbzUPGDeXb+0uig=
 		</data>
 		<key>JSQMessagesCollectionViewCellOutgoing.nib</key>
 		<data>
-		KFAGb0kgMelCHuyFtykrRxYJn3o=
+		J9PZUrUu/V50pEkUI9INDZcj92E=
 		</data>
 		<key>JSQMessagesLoadEarlierHeaderView.nib</key>
 		<data>
-		IZuwn4uzCBXlCN7olyR3G8/t0pI=
+		DVvtULqCrzKOwBfjPfX3rtEdw6Y=
 		</data>
 		<key>JSQMessagesToolbarContentView.nib</key>
 		<data>
-		2B1c2clOmOQqvvb4cIxYBs38XwI=
+		qHB94yHoDXBmGxTUYvYgu199xy4=
 		</data>
 		<key>JSQMessagesTypingIndicatorFooterView.nib</key>
 		<data>
-		zLWR6mv8jAPi0/yPp3YBs/9mAhA=
+		jc7HK/8uu+XvqH5K0oBQP4o6VK0=
 		</data>
 		<key>JSQMessagesViewController.nib</key>
 		<data>
-		LcDwXVOacp7s6GxxI/surczQho8=
+		MSVpwBFrpo0JU+ChH43TDbJgKrI=
 		</data>
 		<key>MCContactsViewController.nib</key>
 		<data>
-		f/RpVJefp+893WQVHRjnNpIA3yg=
+		/ClE2Zg68fiP05u71Qky2v1F4e0=
 		</data>
 		<key>MCRecentChatsViewController.nib</key>
 		<data>
-		meDguxPd8+YVrOYi0D4fdE9iFwc=
+		dNOX5vLsbuVhrwCG4Q9XB2xx3og=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		nmgQwnq/QUHKSNILMoVjlgjZPJ4=
 		</data>
-		<key>NSDateTimeAgo.bundle/ar.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3wcGYI0z2dVGt8lq7lO7QBWAxTo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/bg.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			44B3s45HmfGzwF6wRsHGKGMMQzw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/cs.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tbhRriXBb603+9ebKAUvw0q/9vE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/da.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IUFXGhN68m1Cqs01BVOXssLI+kA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/de.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			INXudJjTqU4Ik3ZoKCOHp7FUZRA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/en.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HvU+csjOSKjsHe8Ro5C1GahoWfo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/es.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			azmgZtbq/eOyOPHVbg6EFcJ1Wa4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/fi.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			azVwC1Sxirf4F89bhrOKICgA2Uo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/fr.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HRCW7VJtKqZOtuWwyxyGUO8ExzE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/gre.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9XsnW3/P8BoaZBM0HyifwKar5hI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/he.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			e8Czxl9NL2sH3dmuTRCgxfFv+Lg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/hu.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BMHBwarFlzNDQmHYykAyvFl4Tak=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/is.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BRGNEP493CB1VgUZBFOD77U4FVY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/it.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nTBIpUCOAdtdNvryaejQPwNxetg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ja.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			T3eSKOZlNDnTWlnRjDa4Oj4Q710=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ko.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oqtb64DL92duaxSnoHHL/yYtuGs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/lv.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZkgF+xCZj/Hdgw7q2IVmvD4oy2w=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ms.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KlMJ7crdU0ExshsH66viDelFeHs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/nb.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+9gZvN62FS5URxkGOfDrvBoJ6BM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/nl.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xy8ahIN67NQd1zzQGgovpomLzjI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/pl.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MarOgCpxZLwzSucvqEn58wSij80=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/pt-PT.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eYMYpL2pZaPPCGoSdTp0d+Gx9+E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/pt.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kZlAY37yECMxWU22GcwGc0f+gQw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ro.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BoOTd4nHs1gvsXhe19IA61qtWVg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ru.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cV/SPHSkU70H9JiwEPCvip6WTtY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/sk.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MpzP3AAnFmBUbrPuektfCyig1Jo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/sq.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YognOT2nMaC6lBCGhpVZHBNoFR8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/sv.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rozUVrKDyUyDCy/2QxUfqi/pCM4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/th.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			K5tvcopHoh35FVZnIPXAYhWDjiI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/tr.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NiK+hB8xwfXbw+UbNqYnz/f83FU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/uk.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yqidiYIoX3cBV4xtjZ8lwlvGc1A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/vi.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			udcSVuBnAhTcqA+H8quJgqzllqA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/zh-Hans.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dWb7S72TvrnJ3v9jisvZNycHZSc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/zh-Hant.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AN4bjeIECBBvGD5cPtVCVChb+wI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>messages_sample.m4a</key>
 		<data>
 		6CWQIVEGt1/yNkv8EVK2tgqKLYA=
@@ -1476,11 +1158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ekSOFzRTxu/iU9zb92/v7mgXeto=
+			J6OWDc14o0430Hd5U0TC29S50EM=
 			</data>
 			<key>hash2</key>
 			<data>
-			71nfFNplmu0WSjJMpF+fwy5jXq3tZGdx6xxKHXHdwHA=
+			cGIwxJ9437+5sdis3JcGsvPtpgsMhcxn2Sdt+qkZFBw=
 			</data>
 		</dict>
 		<key>Headers/NSBundle+JSQMessages.h</key>
@@ -1492,17 +1174,6 @@
 			<key>hash2</key>
 			<data>
 			On5tE4qqlX4YqqYPPOqmQUoRk0iE1lJdMmBYyh/WAi8=
-			</data>
-		</dict>
-		<key>Headers/NSDate+Extension.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oAUtUCdpQZbBAq6ivwRNUMka4yQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			Gd0CR9Wuimu2td+xfTNVlp1FyIsiuiPDrE7fQ0oTml4=
 			</data>
 		</dict>
 		<key>Headers/NSString+JSQMessages.h</key>
@@ -1536,28 +1207,6 @@
 			<key>hash2</key>
 			<data>
 			9FdRFcjlndcZLNZ+dVzZJ6ez4uNjlnwmN1Z37bsIrq8=
-			</data>
-		</dict>
-		<key>Headers/UIView+AutoLayout.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uw0c+T9Lmtz+PGIsv3L1MdTSBdI=
-			</data>
-			<key>hash2</key>
-			<data>
-			swUNrAva+Uso6hsZD2bfK71vB6NMSVh+1yg3hRmBS/4=
-			</data>
-		</dict>
-		<key>Headers/UIView+Borders.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5pobEhVOt8mPK+wriWSMZgyv8eA=
-			</data>
-			<key>hash2</key>
-			<data>
-			Cc3HKvOLrIKndtBNAwboZNqjO4e0xZl4FjLOZzUE5+Q=
 			</data>
 		</dict>
 		<key>Headers/UIView+JSQMessages.h</key>
@@ -2239,88 +1888,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nAMdh2c3VewJXTLPAvyMgKIcxCs=
+			bOGJ++uxt2pCvbzUPGDeXb+0uig=
 			</data>
 			<key>hash2</key>
 			<data>
-			pEMWdnxynHq+whFBHgPZdvBpdej0kzZhZZ/GlrdX65Y=
+			DURnkxcWmXvgAut5RYrsJB57+V0B0Q+1svU7o6c0iAo=
 			</data>
 		</dict>
 		<key>JSQMessagesCollectionViewCellOutgoing.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KFAGb0kgMelCHuyFtykrRxYJn3o=
+			J9PZUrUu/V50pEkUI9INDZcj92E=
 			</data>
 			<key>hash2</key>
 			<data>
-			ICNY88SJRRCImvDsgRLrkbfB7/yVmSHB1UhqpwA2I84=
+			Iqd2xe1rLZv5THrjxx8eiULLCta8JRGs5OdfEflUlH8=
 			</data>
 		</dict>
 		<key>JSQMessagesLoadEarlierHeaderView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IZuwn4uzCBXlCN7olyR3G8/t0pI=
+			DVvtULqCrzKOwBfjPfX3rtEdw6Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			qngR7h21gOIzsCVHYnHB9b6DglokL8G7CjE25PRamDs=
+			GXMcXBJxd/B20gdJZn2S11rO6pmaP/MOsB++QdILQbs=
 			</data>
 		</dict>
 		<key>JSQMessagesToolbarContentView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2B1c2clOmOQqvvb4cIxYBs38XwI=
+			qHB94yHoDXBmGxTUYvYgu199xy4=
 			</data>
 			<key>hash2</key>
 			<data>
-			D3edkI5Q0TsBOqCSlO4ANf8iUYRjouRaA6s8BkL98oo=
+			hi8i3KhjNfZ37mCwwhBgGtERvP0ohz8D0M+wBL4+PHc=
 			</data>
 		</dict>
 		<key>JSQMessagesTypingIndicatorFooterView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zLWR6mv8jAPi0/yPp3YBs/9mAhA=
+			jc7HK/8uu+XvqH5K0oBQP4o6VK0=
 			</data>
 			<key>hash2</key>
 			<data>
-			NoMvhQ4NunY5UH4OTYFCVZ0iAKd1YEKK/nnmExs4+Pg=
+			PUz2IpUT0xS7xrtbxvYKP6yTI2pyMsN1RKtyQSFGQ4I=
 			</data>
 		</dict>
 		<key>JSQMessagesViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LcDwXVOacp7s6GxxI/surczQho8=
+			MSVpwBFrpo0JU+ChH43TDbJgKrI=
 			</data>
 			<key>hash2</key>
 			<data>
-			WaiF+Gjpwo6VYpm/BPaenNDYIySekmCPTjVoDPstDlo=
+			PNLZkI+6IWWYP8B+nwJiUtE9zMRj0iryNBlf4BI3uio=
 			</data>
 		</dict>
 		<key>MCContactsViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f/RpVJefp+893WQVHRjnNpIA3yg=
+			/ClE2Zg68fiP05u71Qky2v1F4e0=
 			</data>
 			<key>hash2</key>
 			<data>
-			tlDkf8++WrIyvfe3OXvmJKeV4ZyP43ZgL4Ou8KVwV3E=
+			QkWYa+xQBa0ouxTyTqFTxX6wFos5dqgGq6mVPK3yhVs=
 			</data>
 		</dict>
 		<key>MCRecentChatsViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			meDguxPd8+YVrOYi0D4fdE9iFwc=
+			dNOX5vLsbuVhrwCG4Q9XB2xx3og=
 			</data>
 			<key>hash2</key>
 			<data>
-			u20Pf839bHSYhbwfJ87tW/mPSVyiYs688KIfgFSv2dA=
+			1/5G9WjlFCicXbgYQPZttTiF+158xOAIk5poYLybSrQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2333,448 +1982,6 @@
 			<data>
 			PH0NVcT0kTzIxfliplAfxXwktAzoqEkBydYBN2hGkYI=
 			</data>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ar.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3wcGYI0z2dVGt8lq7lO7QBWAxTo=
-			</data>
-			<key>hash2</key>
-			<data>
-			+WiqDiOUMC0smrp6aXJeKpRuExmdJr5kgCqSzu4f5aE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/bg.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			44B3s45HmfGzwF6wRsHGKGMMQzw=
-			</data>
-			<key>hash2</key>
-			<data>
-			Thkw18sxGkgiuLnbcxmg9Fn0jgFKzmI5LT7ZmyVxnts=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/cs.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tbhRriXBb603+9ebKAUvw0q/9vE=
-			</data>
-			<key>hash2</key>
-			<data>
-			K0kHnwvZBupk2Ek/KdBU2uyQE4loSWMN1ei5p3AQURg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/da.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IUFXGhN68m1Cqs01BVOXssLI+kA=
-			</data>
-			<key>hash2</key>
-			<data>
-			2x/byJtPoyn0LJ43+RXQnsqIKyEYpKUosQuwotSfLXQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/de.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			INXudJjTqU4Ik3ZoKCOHp7FUZRA=
-			</data>
-			<key>hash2</key>
-			<data>
-			Uy0YPnrsNIOOayVlO1Q5UV0ECVngkrEpIVAljEwVGX0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/en.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HvU+csjOSKjsHe8Ro5C1GahoWfo=
-			</data>
-			<key>hash2</key>
-			<data>
-			oA9XK69VokbcHKSFoO060g8B1kvoAVmU2DfEPWvI1AE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/es.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			azmgZtbq/eOyOPHVbg6EFcJ1Wa4=
-			</data>
-			<key>hash2</key>
-			<data>
-			ITfsHXd7yeehVS8NHUKwHrNp28wKKBD/U4JT8Lhmbec=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/fi.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			azVwC1Sxirf4F89bhrOKICgA2Uo=
-			</data>
-			<key>hash2</key>
-			<data>
-			gCX8Qp8fjffBEcYCMe4AfgpdghKbPWQrvSQ2qHQftyw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/fr.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HRCW7VJtKqZOtuWwyxyGUO8ExzE=
-			</data>
-			<key>hash2</key>
-			<data>
-			4JDLFmBhpQtTsye6W0x1vGJKBpPmOwEb2FdI87sXoeM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/gre.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9XsnW3/P8BoaZBM0HyifwKar5hI=
-			</data>
-			<key>hash2</key>
-			<data>
-			+AIjqwMt041lk418y07U5QDY0x9Oq7Zm7jQe5xPNtCs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/he.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			e8Czxl9NL2sH3dmuTRCgxfFv+Lg=
-			</data>
-			<key>hash2</key>
-			<data>
-			UyQLcXMOvpJFc1ADstIjJZR8/uo/0cFgR7dlrYOmeys=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/hu.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BMHBwarFlzNDQmHYykAyvFl4Tak=
-			</data>
-			<key>hash2</key>
-			<data>
-			+3THmfZ1BMTL/cYoZH1kRx4bmp0jO2mbl1C+S2FyQiI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/is.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BRGNEP493CB1VgUZBFOD77U4FVY=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZycIR49+XLQ0MF28M9LVL+PTi0IKGqLVO/ktEnfRiRw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/it.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nTBIpUCOAdtdNvryaejQPwNxetg=
-			</data>
-			<key>hash2</key>
-			<data>
-			but6fZPn7QPwwThUoD01cqUoT8cPySiyc1VtcofOuG0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ja.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			T3eSKOZlNDnTWlnRjDa4Oj4Q710=
-			</data>
-			<key>hash2</key>
-			<data>
-			QByO+/hRuDed5BEF79uCfJr7AiEmBs62WH84js9ECW8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ko.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oqtb64DL92duaxSnoHHL/yYtuGs=
-			</data>
-			<key>hash2</key>
-			<data>
-			xO7OEycy8CAvvS6nTxaGrc2cbOJTQZW6gSXY+szcnNo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/lv.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZkgF+xCZj/Hdgw7q2IVmvD4oy2w=
-			</data>
-			<key>hash2</key>
-			<data>
-			yyzGS+ufrHw4AwXkvXUP7lOufZHedKkUelpvT2qjm/4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ms.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KlMJ7crdU0ExshsH66viDelFeHs=
-			</data>
-			<key>hash2</key>
-			<data>
-			bifqwc1KTamik1IARMkuLUrvajJN3UHZxvbOardgP88=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/nb.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+9gZvN62FS5URxkGOfDrvBoJ6BM=
-			</data>
-			<key>hash2</key>
-			<data>
-			P6n1onrYN9iNC1OVAWmJR7/gfWHXEN84qLYBcwJE9b4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/nl.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xy8ahIN67NQd1zzQGgovpomLzjI=
-			</data>
-			<key>hash2</key>
-			<data>
-			UyB2vUPKz1lfax5B94zztHQuJq3etZDeCRoMVz4wn2M=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/pl.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MarOgCpxZLwzSucvqEn58wSij80=
-			</data>
-			<key>hash2</key>
-			<data>
-			g72sw+swDZHoMy0QiLMGh2Xfea+G/x6zoXWNOE08+2E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/pt-PT.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eYMYpL2pZaPPCGoSdTp0d+Gx9+E=
-			</data>
-			<key>hash2</key>
-			<data>
-			PbvBaNkJSS+wsr84I5EaS0GcwxOIBAMlEnR0kWinJTo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/pt.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kZlAY37yECMxWU22GcwGc0f+gQw=
-			</data>
-			<key>hash2</key>
-			<data>
-			xQ3Or1hOPIclXsDmJtO76dIwgGbtZS91r+nSO1D4iUU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ro.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BoOTd4nHs1gvsXhe19IA61qtWVg=
-			</data>
-			<key>hash2</key>
-			<data>
-			QvVHo69zyS2l9AU2sSsnefFjUMijkMn4ONnLyRq1SMc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/ru.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cV/SPHSkU70H9JiwEPCvip6WTtY=
-			</data>
-			<key>hash2</key>
-			<data>
-			pT0ILwWr3e01eZYs9tdPoSmoyM+4l7yyYCqsZ1ur/OU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/sk.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MpzP3AAnFmBUbrPuektfCyig1Jo=
-			</data>
-			<key>hash2</key>
-			<data>
-			duykFjhRuzYIhIBh8RdZlEpEAQo9D86mOjVdgNPL2cQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/sq.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YognOT2nMaC6lBCGhpVZHBNoFR8=
-			</data>
-			<key>hash2</key>
-			<data>
-			BDmJDFMKJSFzAgrMUQBXeDh5AJrzqIcUMVwRmqJEhrM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/sv.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rozUVrKDyUyDCy/2QxUfqi/pCM4=
-			</data>
-			<key>hash2</key>
-			<data>
-			6NvAL/xQzp6NBsMe8+zKSbZTT2hfNDfn/+LEjRj/b8A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/th.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			K5tvcopHoh35FVZnIPXAYhWDjiI=
-			</data>
-			<key>hash2</key>
-			<data>
-			o2nmQSQesSBks7XR2K87+KFw8qVw87f/D/0GVvOeo4s=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/tr.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NiK+hB8xwfXbw+UbNqYnz/f83FU=
-			</data>
-			<key>hash2</key>
-			<data>
-			4fF9TPleYheh7iXvL5i4umZ8iRbCNrUGMO6NKnXaSN0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/uk.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yqidiYIoX3cBV4xtjZ8lwlvGc1A=
-			</data>
-			<key>hash2</key>
-			<data>
-			VpPzxEQbT6y+C/9r8Xt4yMezecUc4deCSNJVDqwfarg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/vi.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			udcSVuBnAhTcqA+H8quJgqzllqA=
-			</data>
-			<key>hash2</key>
-			<data>
-			atvVOybwRDZvB+t9n5ywHGVCLbaQPaxx3iQJCyZZndA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/zh-Hans.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dWb7S72TvrnJ3v9jisvZNycHZSc=
-			</data>
-			<key>hash2</key>
-			<data>
-			dcgoD3hYisDRDDcZhI9kcNFEMWRxdtvQPm4SCwsaenU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>NSDateTimeAgo.bundle/zh-Hant.lproj/NSDateTimeAgo.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AN4bjeIECBBvGD5cPtVCVChb+wI=
-			</data>
-			<key>hash2</key>
-			<data>
-			LR5bfB7mimkpGRUbpqHpr6e1+Y6YOSd1/5rIDhYE1Mc=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>messages_sample.m4a</key>
 		<dict>

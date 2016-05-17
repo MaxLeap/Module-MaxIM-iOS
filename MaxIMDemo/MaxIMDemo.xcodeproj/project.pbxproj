@@ -57,7 +57,6 @@
 		B29A8C7C1CEAD9150048CDEB /* JSQMessagesViewController.nib in Resources */ = {isa = PBXBuildFile; fileRef = B29A8C711CEAD9150048CDEB /* JSQMessagesViewController.nib */; };
 		B29A8C7D1CEAD9150048CDEB /* MCContactsViewController.nib in Resources */ = {isa = PBXBuildFile; fileRef = B29A8C721CEAD9150048CDEB /* MCContactsViewController.nib */; };
 		B29A8C7E1CEAD9150048CDEB /* MCRecentChatsViewController.nib in Resources */ = {isa = PBXBuildFile; fileRef = B29A8C731CEAD9150048CDEB /* MCRecentChatsViewController.nib */; };
-		B29A8C7F1CEAD9150048CDEB /* NSDateTimeAgo.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B29A8C741CEAD9150048CDEB /* NSDateTimeAgo.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -142,7 +141,6 @@
 		B29A8C711CEAD9150048CDEB /* JSQMessagesViewController.nib */ = {isa = PBXFileReference; lastKnownFileType = file; path = JSQMessagesViewController.nib; sourceTree = "<group>"; };
 		B29A8C721CEAD9150048CDEB /* MCContactsViewController.nib */ = {isa = PBXFileReference; lastKnownFileType = file; path = MCContactsViewController.nib; sourceTree = "<group>"; };
 		B29A8C731CEAD9150048CDEB /* MCRecentChatsViewController.nib */ = {isa = PBXFileReference; lastKnownFileType = file; path = MCRecentChatsViewController.nib; sourceTree = "<group>"; };
-		B29A8C741CEAD9150048CDEB /* NSDateTimeAgo.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = NSDateTimeAgo.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -345,7 +343,6 @@
 				B29A8C711CEAD9150048CDEB /* JSQMessagesViewController.nib */,
 				B29A8C721CEAD9150048CDEB /* MCContactsViewController.nib */,
 				B29A8C731CEAD9150048CDEB /* MCRecentChatsViewController.nib */,
-				B29A8C741CEAD9150048CDEB /* NSDateTimeAgo.bundle */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -410,7 +407,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				B29A88331CEABF680048CDEB /* LaunchScreen.storyboard in Resources */,
-				B29A8C7F1CEAD9150048CDEB /* NSDateTimeAgo.bundle in Resources */,
 				B29A8B111CEAD20B0048CDEB /* MCSignViewController.nib in Resources */,
 				B29A8B0E1CEAD20B0048CDEB /* ic_weibo@3x.png in Resources */,
 				B29A88711CEAC0960048CDEB /* SVProgressHUD.bundle in Resources */,
